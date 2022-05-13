@@ -2,7 +2,6 @@
 
 ATTENTION! This is still A beta version software. Many function may be unstable while running on your computer 
 
-![Cophic](https://i.ibb.co/b1831W0/Screenshot-from-2019-03-21-12-21-02.png)
 
 ## About
 
