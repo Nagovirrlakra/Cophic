@@ -1,0 +1,171 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2019-04-05 20:09+0800\n"
+"Last-Translator: Dmitry Chumak <mega.venik@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: ./Cophic:91
+msgid ""
+"There seems to be a problem in recording. Try running 'Cophic Screen Recorder' from "
+"the command line to see the issue."
+msgstr ""
+"Похоже, при записи возникла проблема. Попробуйте запустить 'Cophic Screen Recorder' "
+"из командной строки, чтобы узнать больше деталей."
+
+#: ./Cophic:106
+msgid "Stop Recording"
+msgstr "Остановить запись"
+
+#: ./Cophic:172
+msgid "Recording has started!"
+msgstr "Запись начата!"
+
+#: ./Cophic:235 ./Cophic:241
+msgid "Recording has stopped!"
+msgstr "Запись остановлена!"
+
+#: ./Cophic:258
+msgid ""
+"Your GIF image is currently being processed, this may take a while according"
+" to your PC's resources."
+msgstr ""
+"Создание GIF-анимации в процессе. Это может занять некоторое время, в "
+"зависимости от имеющихся ресурсов вашего компьютера."
+
+#: ./Cophic:278
+msgid "File already exists!"
+msgstr "Файл уже существует!"
+
+#: ./Cophic:286
+msgid "Would you like to overwrite this file?"
+msgstr "Вы хотите перезаписать этот файл?"
+
+#: ./Cophic:324
+msgid "Sorry Jim, looks like you are using something we don't support"
+msgstr ""
+"Прости, Вася, похоже, что ты пользуешься чем-то, что мы пока не "
+"поддерживаем."
+
+#: ./Cophic:374
+msgid "About"
+msgstr "О программе"
+
+#: ./Cophic:379 ./Cophic:397
+msgid "Cophic Screen Recorder"
+msgstr ""
+
+#: ./Cophic:380
+msgid "AreaChooser"
+msgstr "Выбираем область"
+
+#: ./Cophic:383
+msgid "File Name.."
+msgstr "Имя файла"
+
+#: ./Cophic:384
+msgid "Enter your command here.."
+msgstr "Введите вашу команду здесь"
+
+#: ./Cophic:385
+msgid "MKV (Matroska multimedia container format)"
+msgstr ""
+
+#: ./Cophic:386
+msgid "AVI (Audio Video Interleaved)"
+msgstr ""
+
+#: ./Cophic:387
+msgid "MP4 (MPEG-4 Part 14)"
+msgstr ""
+
+#: ./Cophic:388
+msgid "WMV (Windows Media Video)"
+msgstr ""
+
+#: ./Cophic:389
+msgid "GIF (Graphics Interchange Format)"
+msgstr ""
+
+#: ./Cophic:390
+msgid "NUT (NUT Recording Format)"
+msgstr ""
+
+#: ./Cophic:392
+msgid "Record Video"
+msgstr "Записывать видео"
+
+#: ./Cophic:393
+msgid "Record Audio"
+msgstr "Записывать аудио"
+
+#: ./Cophic:394
+msgid "Show Mouse"
+msgstr "Записывать курсор"
+
+#: ./Cophic:395
+msgid "Follow Mouse"
+msgstr "Следовать за курсором"
+
+#: ./Cophic:402
+msgid "A simple screen recorder for Linux desktop. Supports Wayland & Xorg."
+msgstr ""
+"Простой инструмент записи рабочего стола для Linux. С поддержкой Wayland и "
+"Xorg."
+
+#: ./Cophic:407
+msgid "Select a Window"
+msgstr "Выбрать окно"
+
+#: ./Cophic:408
+msgid "Select an Area"
+msgstr "Выбрать область"
+
+#: ./Cophic:409
+msgid "Frames:"
+msgstr "Кадров/сек:"
+
+#: ./Cophic:410
+msgid "Delay:"
+msgstr "Задержка:"
+
+#: ./Cophic:411
+msgid "Run Command After Recording:"
+msgstr "После записи выполнить команду:"
+
+#: ./Cophic:412
+msgid "Audio Input Source:"
+msgstr "Источник входного аудио-сигнала:"
+
+#: ./Cophic:428
+msgid "Default PulseAudio Input Source"
+msgstr "Источник входного сигнала PulseAudio по умолчанию"
+
+#: ./Cophic:456
+msgid ""
+"You didn't run the program using the application icon (desktop file). This "
+"will cause the program not to work. Run it using the icon from the menus "
+"only. (Need to export GDK_BACKEND=x11 first)"
+msgstr ""
+"Вы запустили приложение не через ярлык рабочего стола (файл .desktop). Это "
+"помешает корректной работе приложения. Запускайте его исключительно через "
+"ярлык. (Необходимо предварительно экспортировать в окружение "
+"GDK_BACKEND=x11)"
+
+#: ./Cophic:476
+msgid "Your window position has been saved!"
+msgstr "Позиция окна сохранена!"
+
+#: ./Cophic:479
+msgid "Area Chooser"
+msgstr "Выбираем область"
+
+#: ./Cophic:501
+msgid "Your area position has been saved!"
+msgstr "Позиция области сохранена!"

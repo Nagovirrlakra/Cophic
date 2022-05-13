@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Cophic(BETA)
+Name[ar]=Cophic(BETA)
+GenericName=Cophic(BETA)
+GenericName[ar]=Cophic
+Comment=Record your desktop easily using a simple GUI
+Comment[ar]=سجّل سطح مكتبم باستخدام واجهة رسومية سهلة
+Comment[fr]=Enregistrez votre bureau facilement avec une interface simple
+Comment[ru]=Записывайте ваш рабочий стол легко, используя простой интерфейс
+Comment[ID]=Perekam Layar Mudah dengan GUI simple
+Exec=env GDK_BACKEND=x11 Cophic
+Terminal=false
+Type=Application
+Icon=Cophic
+Categories=GTK;AudioVideo;
+StartupNotify=false

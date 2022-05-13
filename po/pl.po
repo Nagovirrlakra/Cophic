@@ -1,0 +1,147 @@
+# Cophic Screen Recorder
+# Copyright (C) 2017, FOSS Project
+# This file is distributed under the same license as the Cophic Screen Recorder package.
+# M.Hanny Sabbagh <mhsabbagh@outlook.com>, 2017
+# Polskie tłumaczenie programu Cophic Screen Recorder.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-08 10:53+0300\n"
+"PO-Revision-Date: 2018-08-14 16:01+0200\n"
+"Last-Translator: Jakub Kaszycki <jakub@kaszycki.net.pl>\n"
+"Language-Team: Polish\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+
+#: Cophic:338 Cophic:358
+msgid "Cophic Screen Recorder"
+msgstr "Cophic Screen Recorder"
+
+#: Cophic:339
+msgid "AreaChooser"
+msgstr ""
+
+#: Cophic:340
+msgid "Cophic Screen Recorder Preferences"
+msgstr "Preferencje programu Cophic Screen Recorder"
+
+#: Cophic:342 Cophic:345
+msgid "File Name (Will be overwritten).."
+msgstr "Nazwa pliku (zostanie nadpisany).."
+
+#: Cophic:343 Cophic:344
+msgid "Enter your command here.."
+msgstr "Wpisz tu swoje polecenie.."
+
+#: Cophic:346
+msgid "MKV (Matroska multimedia container format)"
+msgstr "MKV (format pojemnika na multimedia Matroska)"
+
+#: Cophic:347
+msgid "AVI (Audio Video Interleaved)"
+msgstr "AVI (Audio Video Interleaved)"
+
+#: Cophic:348
+msgid "MP4 (MPEG-4 Part 14)"
+msgstr "MP4 (MPEG-4 część 14)"
+
+#: Cophic:349
+msgid "WMV (Windows Media Video)"
+msgstr "WMV (Windows Media Video)"
+
+#: Cophic:350
+msgid "GIF (Graphics Interchange Format)"
+msgstr "GIF (Graphics Interchange Format)"
+
+#: Cophic:351
+msgid "NUT (NUT Recording Format)"
+msgstr "NUT (format nagrywania NUT)"
+
+#: Cophic:353 Cophic:380
+msgid "Record Video"
+msgstr "Nagraj wideo"
+
+#: Cophic:354 Cophic:381
+msgid "Record Audio"
+msgstr "Nagraj dźwięk"
+
+#: Cophic:355
+msgid "Show Mouse"
+msgstr "Pokaż kursor"
+
+#: Cophic:356 Cophic:383
+msgid "Follow Mouse"
+msgstr "Podążaj za myszą"
+
+#: Cophic:363
+msgid "A simple screen recorder for Linux desktop. Supports Wayland & Xorg."
+msgstr "Prosta nagrywarka pulpitu dla Linuksa. Wspiera Wayland i Xorg."
+
+#: Cophic:369
+msgid "Select a Window"
+msgstr "Wybierz okno"
+
+#: Cophic:370
+msgid "Select an Area"
+msgstr "Wybierz obszar"
+
+#: Cophic:371
+msgid "Frames:"
+msgstr "Ramki na sekundę:"
+
+#: Cophic:372
+msgid "Delay:"
+msgstr "Opóźnienie:"
+
+#: Cophic:373
+msgid "Run Command After Recording:"
+msgstr "Uruchom polecenie po nagrywaniu:"
+
+#: Cophic:374
+msgid "Default frames:"
+msgstr "Domyślne ramki na sekundę:"
+
+#: Cophic:375
+msgid "Default delay:"
+msgstr "Domyślne opóźnienie:"
+
+#: Cophic:376
+msgid "Default folder:"
+msgstr "Domyślny katalog:"
+
+#: Cophic:377
+msgid "Default pipeline:"
+msgstr "Domyślny kanał transportu:"
+
+#: Cophic:378
+msgid "Default command:"
+msgstr "Domyślna komenda:"
+
+#: Cophic:379
+msgid "Audio Input Source:"
+msgstr "Źródło dźwięku:"
+
+#: Cophic:382
+msgid "Record Mouse"
+msgstr "Nagrywaj kursor"
+
+#: Cophic:384
+msgid "Default filename:"
+msgstr "Domyślna nazwa pliku:"
+
+#: Cophic:385
+msgid "If you want, you can:"
+msgstr "Jeśli chcesz, możesz:"
+
+#: Cophic:415
+msgid "Default PulseAudio Input Source"
+msgstr "Domyślne źródło PulseAudio"
+
+#: Cophic:472
+msgid "Area Chooser"
+msgstr "Wybór obszaru"
