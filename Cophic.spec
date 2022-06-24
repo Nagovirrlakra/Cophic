@@ -3,7 +3,7 @@
 
 Name: Cophic Screen Recorder
 Summary: A simple yet functional desktop recorder for Linux systems. Supports both Xorg server and Wayland (GNOME).
-URL: https://github.com/foss-project/green-recorder/
+URL: https://github.com/KucingMunafik/Cophic/
 Version: 3.2.3
 Release: 1%{?dist}
 Source: https://github.com/%{owner}/%{name}/archive/%{version}/%{name}-%{version}.tar.gz
