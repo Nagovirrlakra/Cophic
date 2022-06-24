@@ -32,7 +32,7 @@ Requirements :gir1.2-appindicator3, gawk, python-gobject, python-urllib3, x11-ut
 
 And then run: 
 
-    sudo python setup.py install
+    sudo python setup.py install --root=debian/Cophic --install-layout=deb --install-scripts=/usr/bin/
 
 Run it from python2 it’s doesnt work with python3 if you did’nt have python2 yet install with
 	sudo apt-get install python2
