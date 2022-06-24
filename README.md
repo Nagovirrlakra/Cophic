@@ -1,4 +1,4 @@
-﻿# Cophic (BETA)
+﻿# Cophic
 
 ATTENTION! This is still A beta version software. Many function may be unstable while running on your computer 
 
